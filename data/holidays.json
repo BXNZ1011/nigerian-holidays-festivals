@@ -1,0 +1,32 @@
+[
+  {
+    "name": "New Year's Day",
+    "date": "2026-01-01",
+    "type": "Public Holiday",
+    "region": "Nationwide"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2026-10-01",
+    "type": "Public Holiday",
+    "region": "Nationwide"
+  },
+  {
+    "name": "Eid al-Fitr",
+    "date": "2026-04-10",
+    "type": "Religious Festival",
+    "region": "Nationwide"
+  },
+  {
+    "name": "Durbar Festival",
+    "date": "2026-07-20",
+    "type": "Cultural Festival",
+    "region": "Kano State"
+  },
+  {
+    "name": "Osun-Osogbo Festival",
+    "date": "2026-08-15",
+    "type": "Cultural Festival",
+    "region": "Osun State"
+  }
+]
